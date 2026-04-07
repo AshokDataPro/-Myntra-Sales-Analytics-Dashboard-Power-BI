@@ -161,6 +161,7 @@ DIVIDE(
 -  **MOM growth peaked in Mar 2024** at +29%
 
 ---
+<img src="C:\Users\dell\OneDrive\Desktop\BI dashboard myntra.png"alt="Project Image">
 
 ##  Author
 
